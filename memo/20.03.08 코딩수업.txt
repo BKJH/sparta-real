@@ -1,0 +1,29 @@
+프론트엔드/client - 앞에보이는모든거
+백엔드-서버
+
+api 
+aws amazon web server
+
+alt+shift+b = 브라우저에 띄우기
+alt+shift+f = 정렬
+
+
+div 구역을 나눔 divider
+p
+ul : list
+a : hyper link
+img ; image tag
+img + a 등 합쳐서 가능
+src : source
+br : 줄바꾸기
+input : 한줄넣기
+textarea : 
+
+게임은 맥으로 만들수 없다?
+
+
+id - #으로 연결
+class - .으로 연결
+       - 띄어쓰로 다양한 
+
+ctrl + / = 주석처리 (잠시 끄는거-초록글씨)
